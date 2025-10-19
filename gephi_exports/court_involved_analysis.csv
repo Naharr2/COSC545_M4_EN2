@@ -1,0 +1,6 @@
+Id,court_role,degree,court_outcome
+kenneth.lay@enron.com,CEO,892,convicted
+louise.kitchen@enron.com,COO EnronOnline,867,not charged
+john.lavorato@enron.com,COO Trading,750,not charged
+vince.kaminski@enron.com,Risk Management,732,witness
+david.delainey@enron.com,CEO ENA/EES,469,pleaded guilty
